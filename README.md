@@ -1,5 +1,9 @@
 # English SMS Spam Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10 | 3.11](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E)
+
 Classify English SMS messages as ham or spam using TF-IDF word/bigram features and Logistic Regression.
 
 شرح مختصر بالمصري في [EXPLAIN_AR.md](EXPLAIN_AR.md).
